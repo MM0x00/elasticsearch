@@ -6,6 +6,7 @@ Elasticsearch是基于Lucene的搜索服务器。它提供了一个分布式，�
 
 所属类型是服务器软件
 
+License：APACHE LICENSE, VERSION 2.0
 特点：
 
 稳定，可靠，快速，安装使用方便
